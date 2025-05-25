@@ -1,0 +1,13 @@
+Acurácia da Classificação: 90.67%
+
+Relatório de Classificação Detalhado:
+              precision    recall  f1-score   support
+
+    Classe 1       0.83      0.90      0.86       234
+    Classe 2       0.93      0.92      0.93       832
+    Classe 3       0.93      0.88      0.91       404
+    Classe 4       0.63      0.87      0.73        30
+
+    accuracy                           0.91      1500
+   macro avg       0.83      0.89      0.86      1500
+weighted avg       0.91      0.91      0.91      1500
